@@ -183,6 +183,12 @@ input, select, textarea {
 		letter-spacing: -0.015em;
 	}
 
+	h4 {
+		font-weight: 500;
+		font-size: 1.5em;
+		letter-spacing: -0.015em;
+	}
+
 	em, i {
 		font-style: italic;
 	}
